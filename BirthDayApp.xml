@@ -1,0 +1,20 @@
+package com.example.birthdayapp;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+
+public class MainActivity extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+    }
+}
+<TextView
+
+        android:text="Happy Birthday!"
+        android:background="@android:color/darer_gray"
+        android:layout_with="150bp"
+        android:layout_height="75bp"        />
