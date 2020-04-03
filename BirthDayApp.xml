@@ -17,4 +17,4 @@ public class MainActivity extends AppCompatActivity {
         android:text="Happy Birthday!"
         android:background="@android:color/darer_gray"
         android:layout_with="150bp"
-        android:layout_height="75bp"        />
+        android:layout_height="75bp"/>
